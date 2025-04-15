@@ -1,5 +1,5 @@
 # resumo-lab-azure-dio
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, no Bootcamp
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, no Bootcamp **XP Inc. - Cloud com Inteligência Artificial**
 
 # Lições aprendidas
 A hospedagem na nuvem oferece diversos serviços que trazem benefícios para a sua aplicação, como escalabilidade, confiabilidade, entre outros. A Microsoft oferece o Microsoft Azure Well-Architected Framework, por exemplo, para ajudar a obter um ambiente completo e que atenda aos requisitos do cliente da melhor forma possível, seguindo boas praticas de implementação. Abaixo, seguem os aprendizados sobre estes benefícios.
